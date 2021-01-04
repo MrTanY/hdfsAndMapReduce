@@ -1,0 +1,15 @@
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/wordCount/TaskWcMapper.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numsort/NumSortDervier.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/wordCount/TaskWcDervier.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numbersort/NumberReduce.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numsort/NumSortReduce.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/wordCount/TeskWcReduce.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numbersort/NumberDervier.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numbersort/NumberMap.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/TaskMap.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/TaskReducer.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/TaskDervier.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numsort/NumSortMapper.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/CustomInputReader.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/numsort/NumSortBean.java
+/Users/y/Workspace/projects/task1/src/main/java/com/hadoop/CustomInputFormat.java
